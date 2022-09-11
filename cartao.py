@@ -6,6 +6,7 @@ from PIL import ImageDraw
 import sys
 import urllib.request
 import requests
+
 def padrao():
     n = input('seu nome: ')
     nl = input('nome no letterboxd: ')
